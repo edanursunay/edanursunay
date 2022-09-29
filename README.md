@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Edanur Sunay</h1>
-<h3 align="center">I'm learning Python on Women in Tech Academy with SistersLab</h3>
+<h3 align="center">I'm learning Python with SistersLab on Women in Tech Academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanursunay&label=Profile%20views&color=0e75b6&style=flat" alt="edanursunay" /> </p>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="edanur-sunay-136449220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edanur-sunay-136449220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edanursunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edanursunay" height="30" width="40" /></a>
 <a href="https://instagram.com/edanursunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edanursunay" height="30" width="40" /></a>
 <a href="https://medium.com/@edanursunay.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@edanursunay.1" height="30" width="40" /></a>
 </p>
