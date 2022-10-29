@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanursunay&label=Profile%20views&color=0e75b6&style=flat" alt="edanursunay" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@edanursunay.1](https://medium.com/@edanursunay.1)
 
