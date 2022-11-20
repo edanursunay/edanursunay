@@ -1,5 +1,5 @@
 
-![gif](https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif)
+![gif](https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif)  
 <!--
 **edanursunay/edanursunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+rubber+duck+debugging+page!&center=true&size=17">
+  </a> 
+</h1>
 <h1 align="center">Hi 👋, I'm Edanur Sunay</h1>
 <h3 align="center">I'm learning Python with SistersLab on Women in Tech Academy</h3>
 
