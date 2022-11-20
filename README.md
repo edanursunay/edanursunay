@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![gif](https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif)
 <!--
 **edanursunay/edanursunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
