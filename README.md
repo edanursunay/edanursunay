@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a> 
 </h1>
 <h1 align="center">Hi 👋, I'm Edanur Sunay</h1>
-<h3 align="center">I'm learning Python with SistersLab on Women in Tech Academy</h3>
+<h3 align="center">I'm learning Python and I want to grow up to be a DATA SCIENTIST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanursunay&label=Profile%20views&color=0e75b6&style=flat" alt="edanursunay" /> </p>
 
